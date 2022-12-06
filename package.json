@@ -1,0 +1,13 @@
+{
+  "name": "glitcher-js",
+  "private": "true",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "author": "Artem Agvanian <artemagvanian@icloud.com>",
+  "dependencies": {
+    "sharp": "^0.31.2"
+  }
+}
